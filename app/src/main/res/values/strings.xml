@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nandi</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="wishlist">Wishlist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products_details">Products Details</string>
+    <string name="instock">InStock</string>
+    <string name="award_description"><![CDATA[The Pipes choosen for quality & safety purposes..]]></string>
+</resources>
